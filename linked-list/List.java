@@ -4,10 +4,6 @@
  */
 package linked-list;
 
-/**
- *
- * @author msm
- */
 public class List {
     Node first;
     Node last;
