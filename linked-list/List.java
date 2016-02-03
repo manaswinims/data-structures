@@ -217,45 +217,6 @@ public class List {
     }
     
     public static void main(String[] args){
-       /* List list = new List();
-        list.addToBeginning(5);
-        list.addToBeginning(4);
-        list.addToBeginning(3);
-        list.addToEnd(6);
-        list.addToEnd(7);
-        list.addToEnd(8);
-        list.display();
-        list.reverse();
-        list.display();
-        list.getMiddleElement();
-        list.getNthToLastElement(3);
-        list.getNthToLastElement(8);
-        list.getNthToLastElement(1);
-        list.first = list.reverseEveryKNodes(list.first,4);
-        list.display();
-        list.deleteNafterM(2,1);
-        list.display();
-        list.addAtPosition(3,4);
-        list.display();
-        list.addAtPosition(30,4);
-        list.display();
-        list.first = list.swapEveryTwoNodes(list.first);
-        list.display();*/
-        
-        List list1 = new List();
-        list1.addToBeginning(9);
-        list1.addToBeginning(7);
-        list1.addToBeginning(5);
-        list1.addToBeginning(3);
-        list1.addToBeginning(1);
-        list1.display();
-        
-        List list2 = new List();
-        list2.addToBeginning(10);
-        list2.addToBeginning(8);
-        list2.display();
-        
-        list1.mergeTwoLists(list1, list2);
-        list1.display();
-    }
+        List list = new List();
+	}
 }
